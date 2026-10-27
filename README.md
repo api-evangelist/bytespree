@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bytespree is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bytespree.com/
+Bytespree provides a nonprofit data platform that aggregates, cleans, and visualizes data for charitable organizations. It offers APIs to access donor information, fundraising metrics, program impact statistics, and financial reports, enabling nonprofits to integrate data into their own systems and dashboards. The platform emphasizes data transparency, security, and ease of integration for developers building tools for the nonprofit sector.
+
+**Areas:** Company · Nonprofit · DataPlatform · API · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bytespree.com/)
+- [Documentation](https://bytespree.com/docs/)
+- [Getting started](https://bytespree.com/docs/)
+- [API reference](https://bytespree.com/docs/)
+- [Pricing](https://bytespree.com/pricing/)
+- [Status](https://status.bytespree.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bytespree/](https://apis.io/providers/bytespree/).
